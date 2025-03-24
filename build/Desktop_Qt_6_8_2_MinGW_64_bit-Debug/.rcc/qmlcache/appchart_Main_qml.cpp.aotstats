@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: pieSeries",
+                        "functionName": "onCompleted",
+                        "line": 44
+                    }
+                ],
+                "filepath": "Main.qml"
+            }
+        ],
+        "moduleId": "chart(appchart)"
+    }
+]

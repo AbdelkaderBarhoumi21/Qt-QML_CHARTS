@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/chart/">
+    <file alias="Main.qml">C:/Users/abdel/Documents/qt_project/chart/Main.qml</file>
+  </qresource>
+</RCC>
+
